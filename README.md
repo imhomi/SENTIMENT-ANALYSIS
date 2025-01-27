@@ -53,7 +53,7 @@ The dataset used for this project is **Restaurant_Reviews.tsv**, which contains 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/inhomi/repository-name.git
+   git clone https://github.com/inhomi/SENTIMENT-ANALYSIS.git
    ```
 
 2. Install the required dependencies:
